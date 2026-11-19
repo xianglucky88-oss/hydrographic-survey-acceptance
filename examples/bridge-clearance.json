@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "id": "span-2",
+      "component": "beam-9",
+      "underside_m": 12.75
+    }
+  ],
+  "reference_water_m": 2.75,
+  "datum": "survey datum"
+}

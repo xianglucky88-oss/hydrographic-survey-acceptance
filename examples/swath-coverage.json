@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "id": "L1",
+      "covered_cells": [
+        "A"
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "id": "A",
+      "zone": "Z4"
+    },
+    {
+      "id": "B",
+      "zone": "Z4"
+    }
+  ]
+}

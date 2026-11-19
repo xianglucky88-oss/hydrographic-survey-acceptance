@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "id": "T06",
+      "observed_at": "2026-03-01T10:00:00Z",
+      "gauge_m": 1.25
+    }
+  ],
+  "datum": "harbor-local",
+  "zero_elevation_m": -0.5
+}

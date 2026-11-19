@@ -1,0 +1,16 @@
+[
+  {
+    "fact_id": "A",
+    "zone": "Z4",
+    "covered": true,
+    "swaths": [
+      "L1"
+    ]
+  },
+  {
+    "fact_id": "B",
+    "zone": "Z4",
+    "covered": false,
+    "swaths": []
+  }
+]

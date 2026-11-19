@@ -1,0 +1,15 @@
+[
+  {
+    "fact_id": "G08",
+    "zone": "Z4",
+    "sample_g": 100,
+    "fractions": {
+      "gravel": 0,
+      "sand": 0.75,
+      "mud": 0.25
+    },
+    "dominant_sizes": [
+      "sand"
+    ]
+  }
+]

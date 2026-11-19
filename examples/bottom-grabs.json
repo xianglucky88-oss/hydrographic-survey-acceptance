@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "id": "G08",
+      "zone": "Z4",
+      "gravel_g": 0,
+      "sand_g": 75,
+      "mud_g": 25
+    }
+  ]
+}

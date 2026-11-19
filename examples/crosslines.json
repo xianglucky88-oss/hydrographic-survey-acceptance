@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "id": "X01",
+      "main_point": "M50",
+      "check_point": "C14",
+      "main_depth_m": 12,
+      "check_depth_m": 12.5
+    }
+  ],
+  "max_difference_m": 0.25
+}
